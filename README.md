@@ -26,5 +26,5 @@ Developed as part of the **Thiranex Cyber Security Internship**.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/password-strength-analyzer.git](https://github.com/YOUR_USERNAME/password-strength-analyzer.git)
-   cd password-strength-analyzer
+   git clone https://github.com/venkatesh4059/Thiranex-Task-1-Password-Strength-Analyzer.git
+   python password_analyzer.py
