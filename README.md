@@ -28,3 +28,10 @@ Developed as part of the **Thiranex Cyber Security Internship**.
    ```bash
    git clone https://github.com/venkatesh4059/Thiranex-Task-1-Password-Strength-Analyzer.git
    python password_analyzer.py
+
+📝 Submission Details
+Internship: Thiranex Cyber Security Internship
+
+Task ID: Task 01 - Password Strength Analyzer
+
+Author: Venky
